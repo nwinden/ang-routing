@@ -1,0 +1,16 @@
+{
+  "name": "ang-routes",
+  "version": "1.0.0",
+  "description": "First Angular Routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "author": "Noah Winden",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
